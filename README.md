@@ -14,7 +14,8 @@ It provides an intuitive GUI for performing transformations, filtering, enhancem
 
 📸 Preview
 
-(Add screenshots here later for better GitHub engagement)
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/17bf1988-2616-4fc2-8bb4-9ae6f97b7ca7" />
+
 
 📁 Tip: Create a /screenshots folder and add UI images
 ✨ Features
